@@ -1,0 +1,6 @@
+tensorflow
+matplotlib
+
+
+
+# pip install -r requirements.txt 
